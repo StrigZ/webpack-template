@@ -38,6 +38,7 @@
   },
   "dependencies": {
     "css-minimizer-webpack-plugin": "^7.0.0",
+    "eslint-plugin-jest": "^28.11.0",
     "mini-css-extract-plugin": "^2.9.2"
   }
 }
